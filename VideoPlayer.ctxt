@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=VideoPlayer
+comment0.text=\r\n\ This\ is\ the\ VideoPlayer\ class,\ it\ is\ a\ subclass\ of\ MediaPlayer\ and\ UnitTestHook.\r\n\ This\ will\ include\ the\ video\ items,\ such\ as\ DVD's,\ Blu-Rays,\ and\ VHS\ tapes.\ \r\n
+comment1.params=
+comment1.target=VideoPlayer()
+comment2.params=
+comment2.target=java.lang.String\ outputStatus()
+comment3.params=tape
+comment3.target=void\ insertVHS(java.lang.String)
+comment4.params=
+comment4.target=void\ play()
+comment5.params=
+comment5.target=void\ pause()
+comment6.params=
+comment6.target=void\ stop()
+numComments=7

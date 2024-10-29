@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StreamingPlayer
+comment0.text=\r\n\ This\ is\ the\ StreamingPlayer\ class.\ It\ is\ a\ subclass\ of\ MediaPlayer\ and\r\n\ UnitTestHook.\ It\ will\ contain\ streams\ for\ shows,\ or\ movies.\ Such\ as\ "Breaking\ Bad"\r\n\ or\ "Casablanca".\ \r\n
+comment1.params=
+comment1.target=StreamingPlayer()
+comment2.params=
+comment2.target=java.lang.String\ outputStatus()
+comment3.params=playlist
+comment3.target=void\ insertPlaylist(java.lang.String)
+comment4.params=
+comment4.target=void\ play()
+comment5.params=
+comment5.target=void\ pause()
+comment6.params=
+comment6.target=void\ stop()
+numComments=7

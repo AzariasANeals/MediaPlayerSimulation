@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ This\ is\ the\ main\ class.\ This\ is\ what\ will\ be\ used\ to\ start\ this\ simulation.\r\n\ To\ start\ the\ program\ simply\ create\ a\ new\ "media\ player",\ such\ as\ audio,\ video,\ or\ \r\n\ stream.\ Then\ add\ it\ to\ the\ MediaPlayer\ ArrayList.\ Then\ simply\ run\ the\ program\ and\r\n\ you\ will\ see\ which\ media\ is\ currently\ playing,\ paused,\ and\ stopped\ and\ the\r\n\ name\ of\ it.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AudioPlayer
+comment0.text=\r\n\ This\ is\ the\ AudioPlayer\ class,\ it\ is\ a\ subclass\ of\ MediaPlayer\ and\ \r\n\ UnitTestHook.\ This\ will\ contain\ the\ "AudioPlayer"\ items,\ such\ as\ musical\ albums,\r\n\ podcasts,\ or\ audiobooks.\ \r\n
+comment1.params=
+comment1.target=AudioPlayer()
+comment2.params=
+comment2.target=java.lang.String\ outputStatus()
+comment3.params=tape
+comment3.target=void\ insertCassette(java.lang.String)
+comment4.params=
+comment4.target=void\ play()
+comment5.params=
+comment5.target=void\ pause()
+comment6.params=
+comment6.target=void\ stop()
+numComments=7
